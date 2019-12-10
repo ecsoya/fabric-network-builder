@@ -7,7 +7,7 @@ import org.hyperledger.fabric.sdk.NetworkConfig;
 import org.hyperledger.fabric.sdk.exception.InvalidArgumentException;
 import org.hyperledger.fabric.sdk.exception.NetworkConfigurationException;
 
-public class BbeNetworkTest {
+public class NetworkTest {
 
 	public static void main(String[] args) {
 		File file = new File("src/main/resources/network/connection-org1.yml");
