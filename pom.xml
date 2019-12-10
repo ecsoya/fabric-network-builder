@@ -41,6 +41,7 @@
 	</dependencies>
 	<modules>
 		<module>fabric-network-builder-local</module>
+		<module>fabric-network-builder-bbe</module>
 	</modules>
 
 	<build>
