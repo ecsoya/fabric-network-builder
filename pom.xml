@@ -31,13 +31,6 @@
 			<version>1.4.2</version>
 		</dependency>
 
-		<dependency>
-			<groupId>org.ecsoya.fabric</groupId>
-			<artifactId>fabric-java-utils</artifactId>
-			<version>1.4.1-SNAPSHOT</version>
-			<scope>compile</scope>
-		</dependency>
-
 	</dependencies>
 	<modules>
 		<module>fabric-network-builder-local</module>
